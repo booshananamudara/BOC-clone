@@ -1,0 +1,72 @@
+.sub_small_nav{
+    margin-top:0.5rem;
+    margin-bottom: 2rem;
+}
+.sub_small_nav a{
+    color:gray;
+    text-decoration: none;
+
+}
+
+.sub_small_nav a:hover{
+    text-decoration: underline;
+}
+
+.hrcontainer{
+    margin-bottom: 2rem;
+}
+
+.double_buttons button{
+    border-radius: 0;
+    border:none;
+    margin: 0;
+    padding:0.8rem 2rem;
+    color:rgb(83, 83, 83);
+    background-color: #DFDFDF;
+    font-size: 1.1rem;
+    font-weight: 500;
+    outline-width: 0;
+    box-shadow: none;
+    
+}
+
+.double_buttons button:focus{
+    outline-width:0;
+    border:none;
+    box-shadow: none;
+}
+
+.double_buttons .double_active{
+    color:black;
+    background-color: #FFDE00;
+}
+
+.double_buttons button:hover{
+    color:black;
+    background-color: #FFDE00;
+
+}
+
+
+
+.sec_btn{
+    position: relative;
+    right: 4.5px;
+    border-left:1px solid gray;
+}
+
+.contact_para{
+    background-color: #F2F2F2;
+    padding:2rem 1.5rem;
+    margin-bottom:2rem;
+}
+
+.contact_para div{
+    line-height: 1rem;
+}
+
+.complaint_para{
+    display:none;
+}
+
+
